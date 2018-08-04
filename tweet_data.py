@@ -4,7 +4,6 @@
 Python Twitter Data Scrap using API
 ========================
 Developed by: Chirag Rathod (Srce Cde)
-Email: chiragr83@gmail.com
 ========================
 """
 from tweepy import OAuthHandler
